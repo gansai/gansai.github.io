@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: hackerearth api
+published: true
+disqus_identifier: hackerearth api
+comments: true
 ---
 
 ## Using hackerearth API
