@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: Sorting Nightmare
+published: true
+disqus_identifier: Sorting Nightmare
+comments: true
 ---
 
 ## A Sorting Nightmare
