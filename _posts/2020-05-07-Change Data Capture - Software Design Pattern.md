@@ -44,7 +44,7 @@ Class: ChangeEventSourceCoordinator
 
 Github Path: https://github.com/debezium/debezium/blob/master/debezium-core/src/main/java/io/debezium/pipeline/ChangeEventSourceCoordinator.java
 
-{% gist anonymous/07fa1df33c5c450362175eb11e462163 %}
+{% gist inspire99/07fa1df33c5c450362175eb11e462163 %}
 
 ### Commentary:
 
