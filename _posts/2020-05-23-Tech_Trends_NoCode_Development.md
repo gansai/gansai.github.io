@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tech Trends 23rd May 2020 - No Code Development, Bubble
+title: Tech Trends - No Code Development - Bubble
 published: true
-disqus_identifier: LeetCode Problem - First Bad Version
+disqus_identifier: Tech Trends - No Code Development - Bubble
 comments: true
 ---
 
@@ -22,7 +22,7 @@ As you can see, below contains list of companies providing NoCode platforms.
 
 
 
-![image-20200523204343928]({{ site.url }}/_assets/no_code/mindmap.png)
+![image-20200523204343928]({{site.url}}/assets/img/no_code/mindmap.png)
 
 ### My Experience
 
@@ -36,4 +36,4 @@ My personal experience is that, I followed the first lesson, using the drag and 
 
 Just go, give it a try.
 
-![image-20200523204708181]({{ site.url }}/_assets/no_code/bubble.png)
+![image-20200523204708181]({{site.url}}/assets/img/no_code/bubble.png)

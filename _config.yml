@@ -92,3 +92,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
