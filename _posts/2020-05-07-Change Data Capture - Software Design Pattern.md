@@ -6,8 +6,6 @@ disqus_identifier: Change Data Capture - Software Design Pattern
 comments: true
 ---
 
-# Change Data Capture - Software Design Pattern
-
 Change Data Capture or CDC is an approach to data integration, generally used in enterprise applications. 
 
 ### What is Change Data Capture ?
