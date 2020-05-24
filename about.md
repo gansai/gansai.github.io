@@ -25,4 +25,4 @@ I am grateful to all mentioned below:-
 5. Linus Torvalds (git -> github -> github.io)
 
 ### Contact me
-[mail me](mailto:saigan1986@gmail.com)
+[message me](https://linkedin.com/in/gansai)
