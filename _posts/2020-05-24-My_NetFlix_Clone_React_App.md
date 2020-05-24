@@ -27,7 +27,7 @@ This creates a basic react app, prepares the development environment, by setting
 
 If you want below screen to appear:
 
-![image-20200524125021937](C:\Users\gsw\AppData\Roaming\Typora\typora-user-images\image-20200524125021937.png)
+![image-20200524125021937]({{site.url}}/assets/img/netflix_clone/hello.png)
 
 Then you need to basically update 3 files,
 
@@ -168,7 +168,7 @@ margin: 20px;
 }
 ```
 
-![image-20200524142018107](C:\Users\gsw\AppData\Roaming\Typora\typora-user-images\image-20200524142018107.png)
+![image-20200524142018107]({{site.url}}/assets/img/netflix_clone/hello_box.png)
 
 ### Current Status of the web app - 10%
 
@@ -177,3 +177,7 @@ margin: 20px;
 3. Deploying with Surge
 
 Check out my app ( incomplete ) at https://shiny-plastic.surge.sh/
+
+### Github Project
+
+https://github.com/inspire99/netflix-clone
