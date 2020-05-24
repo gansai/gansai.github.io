@@ -17,12 +17,9 @@ our experiments. I thought I could also list down people who have inspired us to
 This will be an ever growing list.(ArrayList)
 I am grateful to all mentioned below:-
 
-0. Swami
-1. Appa (my father)
-2. Amma (my mother)
-3. Wife
-4. Akka (my sister)
-5. Linus Torvalds (git -> github -> github.io)
+1. Family
+2. Linus Torvalds (git -> github -> github.io)
+3. Donald Knuth (latex)
 
 ### Contact me
 [message me](https://linkedin.com/in/gansai)
