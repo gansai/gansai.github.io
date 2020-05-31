@@ -6,9 +6,13 @@ disqus_identifier: My Netflix clone React App
 comments: true
 ---
 
+​     
 
-​        
-## React App Development
+## Idea   
+
+I want to create a clone of Netflix app, at least minimum possibilities.
+
+## Getting Started with React App Development
 
 The first step is to invoke the following command:
 
