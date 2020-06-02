@@ -16,7 +16,7 @@ I wanted to improve my problem solving skills, so found this challenge posted at
 
 The first step is to visit LeetCode 
 
-[LeetCode June Challenge]: https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/	"LeetCode Challenge"
+[LeetCode June Challenge](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge)
 
 
 
