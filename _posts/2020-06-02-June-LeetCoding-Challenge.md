@@ -50,4 +50,4 @@ My commentary:
 
 ## Github Project
 
-I am publishing the solutions to github repository at [inspire99](https://github.com/inspire99/june-leetcoding-challenge)
+I am publishing the solutions to github repository at [june-leetcoding-challenge](https://github.com/inspire99/june-leetcoding-challenge)
